@@ -1,0 +1,38 @@
+body {
+  position: relative;
+}
+#img-section1 {
+  text-align: center;
+}
+#section1 {
+  padding-top:50px;
+  height:500px;
+  color: #fff;
+  background-color: #66004b;
+
+}
+  #section2 {
+    padding-top:50px;
+    height:500px;
+    color: #fff;
+    background-color: #990070;}
+  #section3 {
+    padding-top:50px;
+    height:500px;
+    color: #fff;
+    background-color: #cc0096;}
+  #section4 {
+    padding-top:50px;
+    height:500px;
+    color: #fff;
+    background-color: #ff00bb;}
+  #section5 {
+    padding-top:50px;
+    height:500px;
+    color: #fff;
+    background-color: #ff33c9;}
+  #section6 {
+    padding-top:50px;
+    height:500px;
+    color: #fff;
+    background-color: #ff66d6;}
